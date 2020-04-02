@@ -1,3 +1,4 @@
+#https://www.codechef.com/problems/NUM239
 def pretty(l,r):
     pretty_count=0
     for i in range(l,r+1):
